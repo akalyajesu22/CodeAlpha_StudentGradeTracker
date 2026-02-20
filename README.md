@@ -2,7 +2,9 @@ PROJECT NAME : STUDENT GRADE TRACKER
 Project Overview:
 
  1.Student Grade Tracker is a Java console-based application developed to manage and analyze student academic performance.
+ 
  2.The program allows users to enter student names and marks, calculate statistical values such as average, highest, and lowest scores, and automatically assign grades based on predefined criteria.
+ 
 
   3.This project demonstrates core Java programming skills and object-oriented programming principles.
 
