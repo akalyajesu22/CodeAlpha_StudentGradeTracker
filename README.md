@@ -77,3 +77,8 @@ Name: John | Marks: 78 | Grade: B
 Average Marks : 85.0
 Highest Marks : 92
 Lowest Marks  : 78
+
+AUTHOR:
+  Akalya S
+  BE Computer Science Engineering
+  Aspiring Software Engineer
